@@ -1,0 +1,6 @@
+[submodule "/home/orville/Code/claude-skills/convex-flutter/src/convex_flutter"]
+	path = /home/orville/Code/claude-skills/convex-flutter/src/convex_flutter
+	url = https://github.com/jkuldev/convex_flutter
+[submodule "/home/orville/Code/claude-skills/convex-flutter/src/convex-rs"]
+	path = /home/orville/Code/claude-skills/convex-flutter/src/convex-rs
+	url = https://github.com/get-convex/convex-rs
