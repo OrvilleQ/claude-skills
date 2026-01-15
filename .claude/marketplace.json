@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "name": "convex-flutter",
+      "description": "Flutter client for Convex backend with real-time subscriptions, queries, mutations, and actions. Version 3.0.0.",
+      "version": "3.0.0",
+      "path": "convex-flutter.skill"
+    }
+  ]
+}
